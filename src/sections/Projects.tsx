@@ -63,8 +63,8 @@ const portfolioProjects = [
       { title: "Enhanced user experience with intuitive design and seamless navigation." },
       { title: "Tech Stack: Next JS, React JS, Tailwind CSS, Framer Motion, CSS" },
     ],
-    gitlink : "#",
-    link: "#projects",
+    gitlink : "https://github.com/vaibhav-nayan/portfolio-website/",
+    link: "https://portfolio-website-vaibhav-nayans-projects-86b8397c.vercel.app/",
     image: portfolio,
   },
 ];
