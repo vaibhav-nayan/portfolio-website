@@ -17,7 +17,8 @@ export const HeroSection = () => {
         <div className="absolute inset-0 z-10 opacity-5"
         style={{
           backgroundImage: `url(${grainImage.src})`
-        }}></div>
+        }}>
+        </div>
         <div className="size-[620px] hero-ring"></div>
         <div className="size-[820px] hero-ring"></div>
         <div className="size-[1020px] hero-ring"></div>
@@ -82,13 +83,13 @@ export const HeroSection = () => {
               <div className="absolute inset-0 bg-green-500 size-2.5 rounded-full animate-ping-large"></div>
             </div>
             <div className="text-sm font-medium">
-              Hola! I'm Vaibhav
+              Hola! I&#39;m Vaibhav
             </div>
           </div>
         </div>
         <div className="max-w-lg mx-auto">
           <h1 className="font-serif text-3xl md:text-5xl text-center mt-8 tracking-wide">
-            I'm a
+            I&#39;m a
             <Type/>
           </h1>
           <p className="mt-4 text-center text-white/60 md:text-lg">
