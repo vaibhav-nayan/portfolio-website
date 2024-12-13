@@ -8,7 +8,7 @@ import SparkleIcon from '@/assets/icons/sparkle.svg'
 import Typewriter from "typewriter-effect";
 import Type from "@/components/Type";
 
-const resumeLink = 'https://drive.google.com/file/d/1X6GdphyWvRsy_daae7JuEqLfXzwj5l4L/view?usp=sharing'
+const resumeLink = 'https://drive.google.com/file/d/1dsWCgPoUICGqdmXuXDS8cpidEGlUZdp_/view?usp=sharing'
 
 export const HeroSection = () => {
   return (
