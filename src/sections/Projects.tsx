@@ -115,13 +115,13 @@ export const ProjectsSection = () => {
                       <ArrowUpRightIcon className="size-4"/>
                     </button>
                   </a>
-                  <a href={project.link}>
+{/*                   <a href={project.link}>
                     <button onClick={toastHandler} className="bg-gradient-to-r from-emerald-300 to-sky-400 text-gray-950 h-12 w-full md:w-auto rounded-xl 
                     font-semibold inline-flex items-center justify-center gap-2 px-6">
                       <span>Visit Live Site</span>
                       <ArrowUpRightIcon className="size-4"/>
                     </button>
-                  </a>
+                  </a> */}
                 </div>
               </div>
               <div className="relative">
